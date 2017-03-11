@@ -1,0 +1,30 @@
+/*.jumbotron{
+	background-color: #9bdeef;
+	color: white
+}*/
+
+body{
+	background-image: url("trainstation.jpg");
+}
+
+#title{
+	color: red;
+}
+
+.panel-body a {
+      word-break: break-all;
+    }
+
+.container{
+	max-width: 650px;
+
+}
+
+.panel-heading{
+	color: red;
+}
+
+.fa-train{
+	color: red;
+}
+
